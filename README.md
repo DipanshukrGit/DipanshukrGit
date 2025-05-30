@@ -4,20 +4,19 @@
 
 <h1 align="center">Hi 👋, I'm Dipanshu Kumar</h1>
 
-<div align="right">
-  <img src="assets/hero.gif" alt="Coding GIF" width="400"/>
-</div>
+<h3 align="center">  I'm a passionate and results-driven software developer with a knack for problem-solving and a love for clean, efficient code. My journey in the tech world has been fueled by a relentless curiosity, driving me to explore the depths of programming and build innovative solutions.</h3>
+<img align="right" alt="Coding" width="400" src="assets/hero.gif">
 
-<h3 align="left">
-  I'm a passionate and results-driven software developer with a knack for problem-solving and a love for clean, efficient code. My journey in the tech world has been fueled by a relentless curiosity, driving me to explore the depths of programming and build innovative solutions.
-</h3>
 
-- 🔭 I'm currently working on **my upcoming advanced project!**  
-- 🌱 I'm currently learning **React Native & advanced JavaScript**  
-- 📫 How to reach me: **dipanshuhub0411@gmail.com**  
+- 🔭 I'm currently working on **my upcoming advanced project!**
+  
+- 🌱 I'm currently learning **React Native & advanced JavaScript**
+  
+- 📫 How to reach me: **dipanshuhub0411@gmail.com**
+  
 - ⚡ Fun fact: **I can solve a Rubik's cube in under 2 minutes!**
 
----
+
 
 ### 🤝 Connect with me
 
