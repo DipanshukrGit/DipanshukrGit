@@ -7,6 +7,7 @@
 </h1>
 
 <h3 align="center">  I'm a passionate and results-driven software developer with a knack for problem-solving and a love for clean, efficient code. My journey in the tech world has been fueled by a relentless curiosity, driving me to explore the depths of programming and build innovative solutions.</h3>
+<br>
 <img align="right" alt="Coding" width="400" src="assets/hero.gif">
 
 ### 🚀 Quick Facts About Me
