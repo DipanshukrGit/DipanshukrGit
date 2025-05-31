@@ -21,7 +21,7 @@
   
 - 📫 Reach me at **dipanshuhub0411@gmail.com**
   
-- ⚡ Fun fact: **I can solve a Rubik's cube in under 2 minutes!**
+- ⚡ Fun fact: I'm an **Engineer**
 
 ---
 
