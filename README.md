@@ -3,7 +3,9 @@
 </p>
 
 <h1 align="center">
-  Hi <img src="assets/hello.gif" alt="hello" height="50" width="50" />, I'm Dipanshu Kumar
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!;+I'm+Dipanshu+Kumar!;" />
+    <br />
+  <img src="assets/hello.gif" alt="hello" height="50" width="50" />
 </h1>
 
 <h3 align="center">  I'm a passionate and results-driven software developer with a knack for problem-solving and a love for clean, efficient code. My journey in the tech world has been fueled by a relentless curiosity, driving me to explore the depths of programming and build innovative solutions.</h3>
