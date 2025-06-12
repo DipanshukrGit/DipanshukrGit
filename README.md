@@ -36,10 +36,12 @@
   <a href="https://linkedin.com/in/dipanshukumar04" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
-  <a href="https://instagram.com/dipanshu.kr04" target="_blank">
+
+  <a href="https://www.codechef.com/users/dipanshukr_04" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="dipanshukr_04" height="30" width="40" /></a>
+    <a href="https://instagram.com/dipanshu.kr04" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
   </a>
-  <a href="https://www.codechef.com/users/dipanshukr_04" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="dipanshukr_04" height="30" width="40" /></a>
+  <a href="https://twitter.com/@dipanshu_kr04" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@dipanshu_kr04" height="30" width="40" /></a>
 </p>
 
 ---
