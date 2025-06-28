@@ -22,7 +22,6 @@
 - 🤝 Open to **collaborating on open source projects**
 - 🔭 Currently working on **my upcoming advanced project!**
 - 🌱 Currently learning **React Native & advanced JavaScript**
-- 📫 Reach me at **dipanshuhub0411@gmail.com**
 - ⚡ Fun fact: I'm an **Engineer**
 <br> <br> <br> <br>
 
