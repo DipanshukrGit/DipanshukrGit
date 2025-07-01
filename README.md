@@ -13,7 +13,7 @@
 </h3>
 
 <br />
-<img align="right" alt="Coding" height="300" width="400" src="assets/hero.gif" />
+<img align="right" alt="Coding" height="220" width="400" src="assets/hero.gif" />
 
 ### 🚀 Quick Facts About Me
 
@@ -23,7 +23,6 @@
 - 🔭 Currently working on **my upcoming advanced project!**
 - 🌱 Currently learning **React Native & advanced JavaScript**
 - ⚡ Fun fact: I'm an **Engineer**
-<br> <br> <br> <br>
 
 ---
 
