@@ -13,7 +13,7 @@
 </h3>
 
 <br />
-<img align="right" alt="Coding" width="400" src="assets/hero.gif" />
+<img align="right" alt="Coding" height="300" width="400" src="assets/hero.gif" />
 
 ### 🚀 Quick Facts About Me
 
