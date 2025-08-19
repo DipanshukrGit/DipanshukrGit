@@ -48,7 +48,7 @@
 ### 💻 Languages & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb,mysql,postgresql,redux,ts,js,html,css,tailwind,sass,bootstrap,python,c,cpp,git,github,vscode,figma,ps,arduino,framer,firebase,blender" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb,mysql,postgresql,redux,ts,js,html,css,tailwind,sass,bootstrap,python,c,cpp,git,github,vscode,figma,ps,arduino,firebase,blender" />
 </p>
 
 ---
