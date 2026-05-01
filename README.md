@@ -14,12 +14,10 @@
   </b>
 </p>
 
-<br/>
-
-<img align="right" alt="Coding" height="220" width="400" src="assets/side.gif" />
-
-
 --- 
+
+
+<img align="right" alt="Coding" height="255" width="400" src="assets/side.gif" />
 
 ### ⚡ <u>Quick Facts About Me</u>
 - 🌱 Currently learning <u>AI & System Design</u> to build smarter, faster apps  
@@ -29,6 +27,8 @@
 - 🎯 Goal: Build apps that <u>don’t just run — they scale</u>  
 - 🤖 Using AI to <u>code smarter, not harder</u>  
 - 😅 Fun fact: I write bugs fast… but fix them faster  
+
+<br/>
 
 ---
 
